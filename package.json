@@ -1,0 +1,8 @@
+{
+  "name": "roblox-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Roblox",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
